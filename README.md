@@ -170,12 +170,6 @@ APP使用H5制作，使用hbuilder打包apk。
 - 版本管理、项目管理：Svn/Git/Maven
 - 云服务器：百度云/腾讯云/AWS/阿里云
       
----      
-      
-# 附加信息
-[CSDN技术博客](http://blog.csdn.net/sinat_25926481)
-
-[GitHub](https://github.com/zhuzhiqiang18)
       
 ---      
 # 致谢
