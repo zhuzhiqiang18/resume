@@ -6,7 +6,7 @@
 # 个人信息
 
  - 朱志强/男/1993 
- - 本科/周口师范学校计算机科学与技术学院
+ - 本科/周口师范学院计算机科学与技术学院
  - 工作年限：2年
  - 技术博客：https://blog.csdn.net/sinat_25926481
  - Github：https://github.com/zhuzhiqiang18
