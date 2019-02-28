@@ -163,7 +163,7 @@ APP使用H5制作，使用hbuilder打包apk。
 以下均为我熟练使用的技能
 
 - Web开发：Java|PHP
-- 框架：Spring/SpringMVC/Hibernate/Mybatis/SpringBoot/Jfinal/ThinkPHP
+- 框架：Spring/SpringMVC/Hibernate/Mybatis/SpringBoot/Jfinal/ThinkPHP/dubbo
 - 前端框架：Bootstrap/Jquery/HTML5/layui/Amaze UI/mui
 - IDE：eclipse/Myeclipse/IDEA/hbuilder
 - 数据库相关：MySQL/SqlServer
