@@ -6,8 +6,8 @@
 # 个人信息
 
  - 朱志强/男/1993 
- - 本科/周口师范学院计算机科学与技术学院
- - 工作年限：2年
+ - 专科/郑州轻工业学院软件学院
+ - 工作年限：3年
  - 技术博客：https://blog.csdn.net/sinat_25926481
  - Github：https://github.com/zhuzhiqiang18
 
@@ -78,8 +78,7 @@ APP端：组合商品详情HTML页，并使用CSS以及JS优化页面，图片�
 本系统对接钉钉机器人，有新业务进度及时推送到钉钉群。
 项目地址：www.stardaymart.cn
   
-## 周口师范学院实验室 （ 2016年3月 ~ 2017年4月 ）
-
+## 郑州宇昶软件科技有限公司 （ 2016年4月 ~ 2017年4月 ）
 ### 创联工场 
 二次开发项目。独立负责后台数据管理系统新功能的设计与实现，整合旧功能，服务器部署。协助前端实现微信、android、ios。优化三端兼容。打包apk、ipa。上架appStore、360、应用宝、百度等应用商店，负责系统维护升级。
 
@@ -94,9 +93,6 @@ APP端：组合商品详情HTML页，并使用CSS以及JS优化页面，图片�
 [WebApp mui&H5+ 用户头像处理之选择照片并剪切（Native.js for Android）](https://blog.csdn.net/sinat_25926481/article/details/53189686)
 
 [解决ios h5 input输入框被输入法弹出一块区域](https://blog.csdn.net/sinat_25926481/article/details/53840614)
-
-
-## 郑州宇昶软件科技有限公司 （ 2016年4月 ~ 2017年4月 ）
 
 ### 高校精品课程及教务管理系统 
 高校的精品课程网站、教务系统，页面采用Html ,CSS, JQuery等技术，后台使用Hibernate, Struts2 ,Spring3 的MVC架构，主要应用为hibernate的ORM，struts2 的OGNL, 标签库，拦截器，Spring的AOP等。
