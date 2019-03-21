@@ -12,7 +12,7 @@
  - Github：https://github.com/zhuzhiqiang18
 
  - 期望职位：Java开发工程师
- - 期望薪资：12k
+ - 期望薪资：12k-15k
 
 # 工作经历
 
