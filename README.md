@@ -7,7 +7,7 @@
 
  - 朱志强/男/1993 
  - 本科/周口师范学院计算机与科学技术学院
- - 工作年限：3年
+ - 工作年限：2年
  - 技术博客：https://blog.csdn.net/sinat_25926481
  - Github：https://github.com/zhuzhiqiang18
  - 期望职位：Java开发工程师
