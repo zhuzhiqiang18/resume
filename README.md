@@ -11,16 +11,16 @@
 * 一年团队，项目管理经验。能独立开发。
 * 3年Java后台开发，涵盖ERP，WMS，电商，金融等项目 
 * 熟练使用Linux
-* 框架：Spring/SpringMVC/Hibernate/Mybatis/SpringBoot/JFinal/Dubbo/Spring Cloud
+* 框架：Spring/SpringMVC/Hibernate/Mybatis/SpringBoot/JFinal/Dubbo/Spring Cloud/Netty
 * 前端框架：Bootstrap/Jquery/HTML5/layui/Amaze UI/mui 
 * IDE：Eclipse/MyEclipse/IDEA/HBuilder
-* 数据库相关：MySQL/SqlServer
+* 数据库及中间件：MySQL/SqlServer/Redis/ElasticSearch/kibana/kafka/ActiveMQ
 * 版本管理、项目管理：Svn/Git/Maven 
 * 云服务器：百度云/腾讯云/AWS/阿里云 
 * 有良好的产品意识，有责任心和团队精神，善于沟通及合作 
 # 工作经历
 ### 2019.04 - 至今      十九楼网络股份有限公司    Java开发工程师 
-* 负责elasticSearch的数据收集存储，检索等 
+* 负责基于elasticSearch搜索服务 
 * 负责19lou.com社区开发与维护
 ### 2017.06 - 2019.04  三益（郑州）贸易有限公司   Java开发工程师 
 * 负责全民外贸，海外仓WMS，STARDAYMART电商平台的设计与开发 
