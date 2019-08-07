@@ -1,6 +1,6 @@
 # 朱志强
 - Email：1048222543@qq.com
-- 基本信息：男/1993 
+- 基本信息：男/1995 
 - 技术博客：https://blog.csdn.net/sinat_25926481
 - Github：https://github.com/zhuzhiqiang18
 - 期望职位：Java开发工程师
