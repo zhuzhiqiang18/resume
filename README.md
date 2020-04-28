@@ -59,7 +59,7 @@
 
 2、维护升级需要停机，重新打Jar包部署。解决方案：使用Nginx主备。[Nginx 主备 实现 后端不停机维护](https://blog.csdn.net/sinat_25926481/article/details/82224583)
 
-3.报表慢查询。解决方案：使用EXPLAIN分析select语句进行分析加索引，12s优化到0.2s。
+3、报表慢查询。解决方案：使用EXPLAIN分析select语句进行分析加索引，12s优化到0.2s。
 
 项目地址：www.qmwm777.com
 
