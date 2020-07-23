@@ -35,7 +35,7 @@
 搜索中间件，独立jar包。提供elasticSearch数据查询服务，高级封装，简单易用，模版化定制搜索服务。无缝衔接spring。19楼各部门重度使用中，为所有部门提供搜索服务。
 对BM25、DF/IDF算法进行优化，研发词频攻击相关度衰减算法等。
 
-应用LambdaMART算法对搜索结果topN重新排序
+应用LambdaMART机器学习算法对搜索结果topN重新排序
 
 [ES相关解决方案总结](https://blog.csdn.net/sinat_25926481/category_9172868.html)
 
