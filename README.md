@@ -1,9 +1,9 @@
 # 朱志强
-- Email：1048222543@qq.com
-- 基本信息：男/1995 
-- 技术博客：https://blog.csdn.net/sinat_25926481
-- Github：https://github.com/zhuzhiqiang18
-- 期望职位：Java开发工程师，ES搜索工程师
+* Email：1048222543@qq.com
+* 基本信息：男/1995 
+* 技术博客：https://blog.csdn.net/sinat_25926481
+* Github：https://github.com/zhuzhiqiang18
+* 期望职位：Java开发工程师 ES搜索工程师
 
 # 教育经历
 * 周口师范学院 软件工程 本科
@@ -42,6 +42,8 @@
 [ES集群GC解决方案](https://blog.csdn.net/sinat_25926481/article/details/105808805)
 
 19楼搜索：https://www.19lou.com/search/thread/index
+
+成果：19年8月开始优化搜索，从分词到算法。20年7月中旬相比较去年搜索功能使用提升17%（重庆购物狂）
 
 ## 三益（郑州）贸易有限公司 （ 2017.06 ~2019.04 ）
 ### 全民外贸 
