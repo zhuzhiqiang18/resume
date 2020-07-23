@@ -38,7 +38,10 @@
 应用LambdaMART算法对搜索结果topN重新排序
 
 [ES相关解决方案总结](https://blog.csdn.net/sinat_25926481/category_9172868.html)
+
 [ES集群GC解决方案](https://blog.csdn.net/sinat_25926481/article/details/105808805)
+
+19楼搜索：https://www.19lou.com/search/thread/index
 
 ## 三益（郑州）贸易有限公司 （ 2017.06 ~2019.04 ）
 ### 全民外贸 
