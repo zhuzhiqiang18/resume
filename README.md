@@ -3,7 +3,7 @@
 - 基本信息：男/1995 
 - 技术博客：https://blog.csdn.net/sinat_25926481
 - Github：https://github.com/zhuzhiqiang18
-- 期望职位：Java开发工程师，大数据搜索工程师
+- 期望职位：Java开发工程师，ES搜索工程师
 
 # 教育经历
 * 周口师范学院 软件工程 本科
