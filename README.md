@@ -3,7 +3,7 @@
 - 基本信息：男/1995 
 - 技术博客：https://blog.csdn.net/sinat_25926481
 - Github：https://github.com/zhuzhiqiang18
-- 期望职位：Java开发工程师
+- 期望职位：Java开发工程师，大数据搜索工程师
 
 # 教育经历
 * 周口师范学院 软件工程 本科
@@ -35,7 +35,10 @@
 搜索中间件，独立jar包。提供elasticSearch数据查询服务，高级封装，简单易用，模版化定制搜索服务。无缝衔接spring。19楼各部门重度使用中，为所有部门提供搜索服务。
 对BM25、DF/IDF算法进行优化，研发词频攻击相关度衰减算法等。
 
+应用LambdaMART算法对搜索结果topN重新排序
+
 [ES相关解决方案总结](https://blog.csdn.net/sinat_25926481/category_9172868.html)
+[ES集群GC解决方案](https://blog.csdn.net/sinat_25926481/article/details/105808805)
 
 ## 三益（郑州）贸易有限公司 （ 2017.06 ~2019.04 ）
 ### 全民外贸 
