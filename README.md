@@ -9,17 +9,19 @@
 * 周口师范学院 软件工程 本科
 # 技能
 * 一年团队，项目管理经验。能独立开发。
-* 3年Java后台开发，涵盖ERP，WMS，电商，金融等项目 
+* 5年Java后台开发，涵盖ERP，WMS，电商，金融，教育等项目 
 * 熟练使用Linux
 * 框架：Spring/SpringMVC/Hibernate/Mybatis/SpringBoot/JFinal/Dubbo/Spring Cloud/Netty
-* 前端框架：Bootstrap/Jquery/HTML5/layui/Amaze UI/mui 
+* 前端框架：Bootstrap/Jquery/HTML5/layui/Amaze UI/mui/Vue
 * IDE：Eclipse/MyEclipse/IDEA/HBuilder
-* 数据库及中间件：MySQL/SqlServer/Redis/ElasticSearch/kibana/kafka/ActiveMQ
+* 数据库及中间件：MySQL/SqlServer/Redis/ElasticSearch/kibana/kafka/ActiveMQ/RabbitMQ
 * 版本管理、项目管理：Svn/Git/Maven 
 * 云服务器：百度云/腾讯云/AWS/阿里云 
 * 有良好的产品意识，有责任心和团队精神，善于沟通及合作 
 # 工作经历
-### 2019.04 - 至今      十九楼网络股份有限公司    Java开发工程师 
+### 2022.03 - 至今  智慧树网    Java开发工程师 
+* SPOC翻转课核心开发
+### 2019.04 - 2022.3      十九楼网络股份有限公司    Java开发工程师 
 * 研发搜索服务中间件以及搜索优化 
 * 负责19lou.com社区开发与维护
 ### 2017.06 - 2019.04  三益（郑州）贸易有限公司   Java开发工程师 
@@ -30,7 +32,7 @@
 * 负责创联工场重构 
 * 负责公司项目的设计与开发 
 # 项目经验
-## 十九楼网络股份有限公司 （ 2019.04 ~至今 ）
+## 十九楼网络股份有限公司 （ 2019.04 ~ 2022.03 ）
 ### 搜索中间件
 搜索中间件，独立jar包。提供elasticSearch数据查询服务，高级封装，简单易用，模版化定制搜索服务。无缝衔接spring。19楼各部门重度使用中，为所有部门提供搜索服务。
 对BM25、DF/IDF算法进行优化，研发词频攻击相关度衰减算法等。
